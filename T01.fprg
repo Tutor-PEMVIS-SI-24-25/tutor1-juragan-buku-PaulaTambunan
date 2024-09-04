@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="PAULA TAMBUNAN"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09.13.43 PM"/>
+        <attribute name="created" value="UEFVTEEgVEFNQlVOQU47TEFQVE9QLU1MRDNVTVFLOzIwMjQtMDktMDQ7MDguMTQuNDAgUE07MzM1OA=="/>
+        <attribute name="edited" value="UEFVTEEgVEFNQlVOQU47TEFQVE9QLU1MRDNVTVFLOzIwMjQtMDktMDQ7MDkuMTMuNDMgUE07MTszNDY5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nama" type="String" array="False" size=""/>
+            <input variable="Nama"/>
+            <output expression="Nama" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
